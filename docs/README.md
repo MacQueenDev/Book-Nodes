@@ -12,4 +12,4 @@ Este é um MVP de um e-commerce de livros que utiliza o **Algoritmo de Dijkstra*
 
 1. **Instale as dependências:**
    ```bash
-   pip install -r requirements.txt
+  pip install -r requirements.txt
