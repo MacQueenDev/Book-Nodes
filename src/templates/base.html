@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOOK-NODES</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <nav class="bg-blue-600 p-4 text-white shadow-lg">
+        <div class="container mx-auto flex justify-between">
+            <a href="/" class="text-2xl font-bold">📚 BOOK-NODES</a>
+            <div>
+                <a href="/perfil" class="px-4">Meu Perfil</a>
+                <a href="/carrinho" class="px-4">Carrinho</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mx-auto mt-8 p-4">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>
