@@ -5,7 +5,6 @@ Este é um MVP de um e-commerce de livros que utiliza o **Algoritmo de Dijkstra*
 ## 🛠️ Tecnologias Utilizadas
 - **Python** & **Flask** (Back-end)
 - **SQLite** & **SQLAlchemy** (Banco de dados e ORM)
-- **NetworkX** (Processamento de Grafos)
 - **Tailwind CSS** (Interface)
 
 ## 🚀 Como Executar o Projeto
@@ -13,3 +12,4 @@ Este é um MVP de um e-commerce de livros que utiliza o **Algoritmo de Dijkstra*
 1. **Instale as dependências:**
    ```bash
   pip install -r requirements.txt
+   ```

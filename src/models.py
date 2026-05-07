@@ -7,10 +7,10 @@ class Usuario(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     nome = db.Column(db.String(50), nullable=False)
     email = db.Column(db.String(50), unique=True, nullable=False)
-    senha_hash = db.Column(db.String(200), nullable=False)
+    senha = db.Column(db.String(300), nullable=False)
 
     def set_senha(self, senha):
-        self.senha_hash = generate_password_hash(senha)
+        self.senha = generate_password_hash(senha)
 
 class Livro(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -23,6 +23,6 @@ class Livro(db.Model):
 
 class Conexao(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    livro_origem_id = db.Column(db.Integer, db.ForeignKey('livro.id'))
-    livro_destino_id = db.Column(db.Integer, db.ForeignKey('livro.id'))
-    peso = db.Column(db.Float, default=1.0) 
+    livro_id_1 = db.Column(db.Integer, db.ForeignKey('livro.id'))
+    livro_id_2 = db.Column(db.Integer, db.ForeignKey('livro.id'))
+    peso = db.Column(db.Float, default=5.0) 
