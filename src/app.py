@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, render_template
-from .models import db, Livro, Conexao
-from .engine import obter_recomendacoes 
+from models import db, Livro, Conexao, Usuario
+from engine import obter_recomendacoes 
 import os
 
 app = Flask(__name__)

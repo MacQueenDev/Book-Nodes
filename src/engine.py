@@ -1,17 +1,39 @@
-import networkx as nx
-from .models import Conexao
+from models import Conexao
 
-def obter_recomendacoes(livro_id):
-    G = nx.Graph()
-    
+def obter_recomendacoes(livro_id_inicial):
     conexoes = Conexao.query.all()
-    for c in conexoes:
-        G.add_edge(c.livro_origem_id, c.livro_destino_id, weight=c.peso)
+    grafo = {}
     
-    try:
-        distancias, caminhos = nx.single_source_dijkstra(G, source=livro_id)
+    for c in conexoes:
+        if c.livro_id_1 not in grafo: grafo[c.livro_id_1] = {}
+        if c.livro_id_2 not in grafo: grafo[c.livro_id_2] = {}
+        grafo[c.livro_id_1][c.livro_id_2] = c.peso
+        grafo[c.livro_id_2][c.livro_id_1] = c.peso
+
+    if livro_id_inicial not in grafo:
+        return []
+    
+    distancias = {no: float('infinity') for no in grafo}
+    distancias[livro_id_inicial] = 0 
+    visitados = set()
+
+    while len(visitados) < len(grafo):
+        no_atual = None
+        for no in grafo:
+            if no not in visitados:
+                if no_atual is None or distancias[no] < distancias[no_atual]:
+                    no_atual = no
         
-        recomendados = sorted(distancias.items(), key=lambda x: x[1])[1:4]
-        return [item[0] for item in recomendados]
-    except:
-        return [] 
+        if no_atual is None or distancias[no_atual] == float('infinity'):
+            break
+            
+        visitados.add(no_atual)
+
+        for vizinho, peso in grafo[no_atual].items():
+            nova_distancia = distancias[no_atual] + peso
+            if nova_distancia < distancias[vizinho]:
+                distancias[vizinho] = nova_distancia
+
+    recomendados_ordenados = sorted(distancias, key=distancias.get)
+    
+    return [id for id in recomendados_ordenados if id != livro_id_inicial][:5]
