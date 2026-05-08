@@ -1,0 +1,71 @@
+import heapq 
+import networkx as nx
+from .models import Conexao
+
+#  DIJKSTRA IMPLEMENTADO DO ZERO
+
+def _construir_grafo(conexoes):
+
+    grafo = {}
+    for c in conexoes:
+        o = c.livro_origem_id
+        d = c.livro_destino_id
+        w = c.peso
+
+        if o not in grafo:
+            grafo[o] = []
+        if d not in grafo:
+            grafo[d] = []
+
+        grafo[o].append((d, w))
+        grafo[d].append((o, w))
+
+    return grafo
+
+
+def _dijkstra(grafo, origem):
+   
+    INF = float('inf')
+
+    distancias = {node: INF for node in grafo}
+    distancias[origem] = 0
+    visitados = set()
+    fila = [(0, origem)]  # (distancia, node_id)
+
+    while fila:
+        dist_atual, u = heapq.heappop(fila)
+
+        if u in visitados:
+            continue
+        visitados.add(u)
+
+        for vizinho, peso in grafo.get(u, []):
+            if vizinho in visitados:
+                continue
+
+            nova_dist = dist_atual + peso
+
+            if nova_dist < distancias.get(vizinho, INF):
+                distancias[vizinho] = nova_dist
+                heapq.heappush(fila, (nova_dist, vizinho))
+
+    return distancias
+
+
+def obter_recomendacoes(livro_id, top_n=3):
+   
+    conexoes = Conexao.query.all()
+
+    if not conexoes:
+        return []
+
+    grafo = _construir_grafo(conexoes)
+
+    if livro_id not in grafo:
+        return []
+
+    distancias = _dijkstra(grafo, livro_id)
+    distancias.pop(livro_id, None)
+
+    recomendados = sorted(distancias.items(), key=lambda item: item[1])
+    return [book_id for book_id, _ in recomendados[:top_n]]
