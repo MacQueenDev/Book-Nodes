@@ -1,15 +1,82 @@
-# 📚 BOOK-NODES: E-commerce com Recomendação via Grafos
 
-Este é um MVP de um e-commerce de livros que utiliza o **Algoritmo de Dijkstra** para calcular recomendações personalizadas baseadas na similaridade entre produtos.
+# 🚀 Nome do Projeto
+ ![Logo](imagem/logo.jpeg)
 
-## 🛠️ Tecnologias Utilizadas
-- **Python** & **Flask** (Back-end)
-- **SQLite** & **SQLAlchemy** (Banco de dados e ORM)
-- **NetworkX** (Processamento de Grafos)
-- **Tailwind CSS** (Interface)
+**Projeto:** 
 
-## 🚀 Como Executar o Projeto
+**Resumo:**  
 
-1. **Instale as dependências:**
-   ```bash
-  pip install -r requirements.txt
+
+---
+
+## 🎯 Objetivo
+
+
+
+---
+
+## 👨‍💻 Tecnologias Utilizadas
+
+
+
+---
+
+## 🗂️ Estrutura do Projeto
+
+```
+
+```
+
+---
+
+## ⚙️ Como Executar
+
+### ✅ Rodando Localmente
+
+
+```
+
+---
+
+## 📸 Demonstrações
+
+
+
+---
+
+## 👥 Equipe
+
+| Nome                              | GitHub                                          |
+|-----------------------------------|--------------------------------------------------|
+| Matheus Silva Soares             | [@Matheus](https://github.com/Matheus686) |
+| Marcos Antônio Da Silva Souza    | [@Marcos](https://github.com/MacQueenDev)                                     |
+| Gabriel Alves Dias Reis         |                                      |
+
+---
+
+## 🧠 Disciplinas Envolvidas
+
+- Teoria dos Grafos
+
+
+---
+
+## 🏫 Informações Acadêmicas
+
+- Universidade: Universidade Braz Cubas
+- Curso: Ciência da Computação
+- Semestre: Marcos e Gabriel Reis 4º / Matheus 5º
+- Período: Noite
+- Professora orientadora: Dra. Andréa Ono Sakai
+- Evento: 
+- Local: 
+- Datas: 
+
+---
+
+## 📄 Licença
+
+MIT License — sinta-se à vontade para utilizar, estudar e adaptar este projeto.
+
+ © 2025 Matheus Silva, Marcos Oliveira, Gabriel Reis. Todos os direitos reservados.
+ 
