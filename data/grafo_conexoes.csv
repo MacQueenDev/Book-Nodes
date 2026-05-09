@@ -1,0 +1,1030 @@
+livro_id_1,titulo_livro_1,autor_livro_1,categoria_livro_1,livro_id_2,titulo_livro_2,autor_livro_2,categoria_livro_2,peso
+1,O Hobbit,J.R.R. Tolkien,Fantasia,2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,0.5
+1,O Hobbit,J.R.R. Tolkien,Fantasia,3,As Duas Torres,J.R.R. Tolkien,Fantasia,0.5
+1,O Hobbit,J.R.R. Tolkien,Fantasia,4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,0.5
+1,O Hobbit,J.R.R. Tolkien,Fantasia,5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,0.5
+1,O Hobbit,J.R.R. Tolkien,Fantasia,6,O Silmarillion,J.R.R. Tolkien,Mitologia,1.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,1.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,1.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+1,O Hobbit,J.R.R. Tolkien,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,3,As Duas Torres,J.R.R. Tolkien,Fantasia,0.5
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,0.5
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,0.5
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,6,O Silmarillion,J.R.R. Tolkien,Mitologia,1.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,1.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,1.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+2,A Sociedade do Anel,J.R.R. Tolkien,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,0.5
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,0.5
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,6,O Silmarillion,J.R.R. Tolkien,Mitologia,1.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,1.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,1.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+3,As Duas Torres,J.R.R. Tolkien,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,0.5
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,6,O Silmarillion,J.R.R. Tolkien,Mitologia,1.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,1.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,1.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+4,O Retorno do Rei,J.R.R. Tolkien,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,6,O Silmarillion,J.R.R. Tolkien,Mitologia,1.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,1.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,1.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+5,Os Filhos de Húrin,J.R.R. Tolkien,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+6,O Silmarillion,J.R.R. Tolkien,Mitologia,7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,0.5
+6,O Silmarillion,J.R.R. Tolkien,Mitologia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,0.5
+7,Beren e Lúthien,J.R.R. Tolkien,Mitologia,8,A Queda de Gondolin,J.R.R. Tolkien,Mitologia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+9,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,0.5
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,0.5
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,0.5
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,0.5
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+10,Harry Potter e a Câmara Secreta,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,0.5
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,0.5
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,0.5
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+11,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,0.5
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,0.5
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+12,Harry Potter e o Cálice de Fogo,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,0.5
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+13,Harry Potter e a Ordem da Fênix,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,0.5
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+14,Harry Potter e o Enigma do Príncipe,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,16,O Chamado do Cuco,J.K. Rowling,Suspense,1.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,17,O Bicho-da-Seda,J.K. Rowling,Suspense,1.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,18,Vocação para o Mal,J.K. Rowling,Suspense,1.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,34,A Guerra dos Tronos,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+15,Harry Potter e as Relíquias da Morte,J.K. Rowling,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,17,O Bicho-da-Seda,J.K. Rowling,Suspense,0.5
+16,O Chamado do Cuco,J.K. Rowling,Suspense,18,Vocação para o Mal,J.K. Rowling,Suspense,0.5
+16,O Chamado do Cuco,J.K. Rowling,Suspense,25,Mr. Mercedes,Stephen King,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,26,Achados e Perdidos,Stephen King,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,27,O Último Turno,Stephen King,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,28,Joyland,Stephen King,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,55,Origem,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+16,O Chamado do Cuco,J.K. Rowling,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,18,Vocação para o Mal,J.K. Rowling,Suspense,0.5
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,25,Mr. Mercedes,Stephen King,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,26,Achados e Perdidos,Stephen King,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,27,O Último Turno,Stephen King,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,28,Joyland,Stephen King,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,55,Origem,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+17,O Bicho-da-Seda,J.K. Rowling,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,25,Mr. Mercedes,Stephen King,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,26,Achados e Perdidos,Stephen King,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,27,O Último Turno,Stephen King,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,28,Joyland,Stephen King,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,55,Origem,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+18,Vocação para o Mal,J.K. Rowling,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+19,It: A Coisa,Stephen King,Terror,20,O Iluminado,Stephen King,Terror,0.5
+19,It: A Coisa,Stephen King,Terror,21,Carrie,Stephen King,Terror,0.5
+19,It: A Coisa,Stephen King,Terror,22,O Cemitério,Stephen King,Terror,0.5
+19,It: A Coisa,Stephen King,Terror,23,Misery,Stephen King,Terror,0.5
+19,It: A Coisa,Stephen King,Terror,24,Doutor Sono,Stephen King,Terror,0.5
+19,It: A Coisa,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+19,It: A Coisa,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+19,It: A Coisa,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+19,It: A Coisa,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+19,It: A Coisa,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+19,It: A Coisa,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+20,O Iluminado,Stephen King,Terror,21,Carrie,Stephen King,Terror,0.5
+20,O Iluminado,Stephen King,Terror,22,O Cemitério,Stephen King,Terror,0.5
+20,O Iluminado,Stephen King,Terror,23,Misery,Stephen King,Terror,0.5
+20,O Iluminado,Stephen King,Terror,24,Doutor Sono,Stephen King,Terror,0.5
+20,O Iluminado,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+20,O Iluminado,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+20,O Iluminado,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+20,O Iluminado,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+20,O Iluminado,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+20,O Iluminado,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+20,O Iluminado,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+20,O Iluminado,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+20,O Iluminado,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+20,O Iluminado,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+20,O Iluminado,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+21,Carrie,Stephen King,Terror,22,O Cemitério,Stephen King,Terror,0.5
+21,Carrie,Stephen King,Terror,23,Misery,Stephen King,Terror,0.5
+21,Carrie,Stephen King,Terror,24,Doutor Sono,Stephen King,Terror,0.5
+21,Carrie,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+21,Carrie,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+21,Carrie,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+21,Carrie,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+21,Carrie,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+21,Carrie,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+21,Carrie,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+21,Carrie,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+21,Carrie,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+21,Carrie,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+21,Carrie,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+22,O Cemitério,Stephen King,Terror,23,Misery,Stephen King,Terror,0.5
+22,O Cemitério,Stephen King,Terror,24,Doutor Sono,Stephen King,Terror,0.5
+22,O Cemitério,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+22,O Cemitério,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+22,O Cemitério,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+22,O Cemitério,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+22,O Cemitério,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+22,O Cemitério,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+22,O Cemitério,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+22,O Cemitério,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+22,O Cemitério,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+22,O Cemitério,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+22,O Cemitério,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+23,Misery,Stephen King,Terror,24,Doutor Sono,Stephen King,Terror,0.5
+23,Misery,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+23,Misery,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+23,Misery,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+23,Misery,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+23,Misery,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+23,Misery,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+23,Misery,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+23,Misery,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+23,Misery,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+23,Misery,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+23,Misery,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,25,Mr. Mercedes,Stephen King,Suspense,1.0
+24,Doutor Sono,Stephen King,Terror,26,Achados e Perdidos,Stephen King,Suspense,1.0
+24,Doutor Sono,Stephen King,Terror,27,O Último Turno,Stephen King,Suspense,1.0
+24,Doutor Sono,Stephen King,Terror,28,Joyland,Stephen King,Suspense,1.0
+24,Doutor Sono,Stephen King,Terror,57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,83,Drácula,Bram Stoker,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+24,Doutor Sono,Stephen King,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+25,Mr. Mercedes,Stephen King,Suspense,26,Achados e Perdidos,Stephen King,Suspense,0.5
+25,Mr. Mercedes,Stephen King,Suspense,27,O Último Turno,Stephen King,Suspense,0.5
+25,Mr. Mercedes,Stephen King,Suspense,28,Joyland,Stephen King,Suspense,0.5
+25,Mr. Mercedes,Stephen King,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,55,Origem,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+25,Mr. Mercedes,Stephen King,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,27,O Último Turno,Stephen King,Suspense,0.5
+26,Achados e Perdidos,Stephen King,Suspense,28,Joyland,Stephen King,Suspense,0.5
+26,Achados e Perdidos,Stephen King,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,55,Origem,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+26,Achados e Perdidos,Stephen King,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,28,Joyland,Stephen King,Suspense,0.5
+27,O Último Turno,Stephen King,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,55,Origem,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+27,O Último Turno,Stephen King,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+28,Joyland,Stephen King,Suspense,29,E Não Sobrou Nenhum,Agatha Christie,Suspense,2.0
+28,Joyland,Stephen King,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,2.0
+28,Joyland,Stephen King,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,2.0
+28,Joyland,Stephen King,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,2.0
+28,Joyland,Stephen King,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,2.0
+28,Joyland,Stephen King,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+28,Joyland,Stephen King,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+28,Joyland,Stephen King,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+28,Joyland,Stephen King,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+28,Joyland,Stephen King,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+28,Joyland,Stephen King,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,55,Origem,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+28,Joyland,Stephen King,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+28,Joyland,Stephen King,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+28,Joyland,Stephen King,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+28,Joyland,Stephen King,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+28,Joyland,Stephen King,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,0.5
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,0.5
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,0.5
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,0.5
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,55,Origem,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+29,E Não Sobrou Nenhum,Agatha Christie,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,31,Morte no Nilo,Agatha Christie,Suspense,0.5
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,0.5
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,0.5
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,55,Origem,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+30,O Assassinato no Expresso Oriente,Agatha Christie,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,32,A Noite das Bruxas,Agatha Christie,Suspense,0.5
+31,Morte no Nilo,Agatha Christie,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,0.5
+31,Morte no Nilo,Agatha Christie,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,55,Origem,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+31,Morte no Nilo,Agatha Christie,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,0.5
+32,A Noite das Bruxas,Agatha Christie,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,55,Origem,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+32,A Noite das Bruxas,Agatha Christie,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,55,Origem,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+33,O Assassinato de Roger Ackroyd,Agatha Christie,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,35,A Fúria dos Reis,George R.R. Martin,Fantasia,0.5
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,0.5
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,0.5
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,0.5
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,0.5
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+34,A Guerra dos Tronos,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,36,A Tormenta de Espadas,George R.R. Martin,Fantasia,0.5
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,0.5
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,0.5
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,0.5
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+35,A Fúria dos Reis,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,37,O Festim dos Corvos,George R.R. Martin,Fantasia,0.5
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,0.5
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,0.5
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+36,A Tormenta de Espadas,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,38,A Dança dos Dragões,George R.R. Martin,Fantasia,0.5
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,0.5
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+37,O Festim dos Corvos,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,39,Fogo e Sangue,George R.R. Martin,Fantasia,0.5
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+38,A Dança dos Dragões,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,61,O Ladrão de Raios,Rick Riordan,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+39,Fogo e Sangue,George R.R. Martin,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+40,Fundação,Isaac Asimov,Ficção Científica,41,Fundação e Império,Isaac Asimov,Ficção Científica,0.5
+40,Fundação,Isaac Asimov,Ficção Científica,42,Segunda Fundação,Isaac Asimov,Ficção Científica,0.5
+40,Fundação,Isaac Asimov,Ficção Científica,43,"Eu, Robô",Isaac Asimov,Ficção Científica,0.5
+40,Fundação,Isaac Asimov,Ficção Científica,44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,0.5
+40,Fundação,Isaac Asimov,Ficção Científica,45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,0.5
+40,Fundação,Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+40,Fundação,Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+40,Fundação,Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+40,Fundação,Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+41,Fundação e Império,Isaac Asimov,Ficção Científica,42,Segunda Fundação,Isaac Asimov,Ficção Científica,0.5
+41,Fundação e Império,Isaac Asimov,Ficção Científica,43,"Eu, Robô",Isaac Asimov,Ficção Científica,0.5
+41,Fundação e Império,Isaac Asimov,Ficção Científica,44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,0.5
+41,Fundação e Império,Isaac Asimov,Ficção Científica,45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,0.5
+41,Fundação e Império,Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+41,Fundação e Império,Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+41,Fundação e Império,Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+41,Fundação e Império,Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,43,"Eu, Robô",Isaac Asimov,Ficção Científica,0.5
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,0.5
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,0.5
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+42,Segunda Fundação,Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,0.5
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,0.5
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+43,"Eu, Robô",Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,0.5
+44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+44,Os Próprios Deuses,Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,70,Duna,Frank Herbert,Ficção Científica,2.0
+45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,2.0
+45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,2.0
+45,O Fim da Eternidade,Isaac Asimov,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,0.5
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,0.5
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,0.5
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,0.5
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,55,Origem,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+46,Um Estudo em Vermelho,Arthur Conan Doyle,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,0.5
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,0.5
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,0.5
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,55,Origem,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+47,O Signo dos Quatro,Arthur Conan Doyle,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,49,O Vale do Medo,Arthur Conan Doyle,Suspense,0.5
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,0.5
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,55,Origem,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+48,O Cão dos Baskerville,Arthur Conan Doyle,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,0.5
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,55,Origem,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+49,O Vale do Medo,Arthur Conan Doyle,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,51,O Código Da Vinci,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,54,Inferno,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,55,Origem,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+50,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+51,O Código Da Vinci,Dan Brown,Suspense,52,Anjos e Demônios,Dan Brown,Suspense,0.5
+51,O Código Da Vinci,Dan Brown,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,0.5
+51,O Código Da Vinci,Dan Brown,Suspense,54,Inferno,Dan Brown,Suspense,0.5
+51,O Código Da Vinci,Dan Brown,Suspense,55,Origem,Dan Brown,Suspense,0.5
+51,O Código Da Vinci,Dan Brown,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,0.5
+51,O Código Da Vinci,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+51,O Código Da Vinci,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+51,O Código Da Vinci,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+51,O Código Da Vinci,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+51,O Código Da Vinci,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+52,Anjos e Demônios,Dan Brown,Suspense,53,O Símbolo Perdido,Dan Brown,Suspense,0.5
+52,Anjos e Demônios,Dan Brown,Suspense,54,Inferno,Dan Brown,Suspense,0.5
+52,Anjos e Demônios,Dan Brown,Suspense,55,Origem,Dan Brown,Suspense,0.5
+52,Anjos e Demônios,Dan Brown,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,0.5
+52,Anjos e Demônios,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+52,Anjos e Demônios,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+52,Anjos e Demônios,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+52,Anjos e Demônios,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+52,Anjos e Demônios,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+53,O Símbolo Perdido,Dan Brown,Suspense,54,Inferno,Dan Brown,Suspense,0.5
+53,O Símbolo Perdido,Dan Brown,Suspense,55,Origem,Dan Brown,Suspense,0.5
+53,O Símbolo Perdido,Dan Brown,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,0.5
+53,O Símbolo Perdido,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+53,O Símbolo Perdido,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+53,O Símbolo Perdido,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+53,O Símbolo Perdido,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+53,O Símbolo Perdido,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+54,Inferno,Dan Brown,Suspense,55,Origem,Dan Brown,Suspense,0.5
+54,Inferno,Dan Brown,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,0.5
+54,Inferno,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+54,Inferno,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+54,Inferno,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+54,Inferno,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+54,Inferno,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+55,Origem,Dan Brown,Suspense,56,Fortaleza Digital,Dan Brown,Suspense,0.5
+55,Origem,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+55,Origem,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+55,Origem,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+55,Origem,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+55,Origem,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+56,Fortaleza Digital,Dan Brown,Suspense,78,Não Conte a Ninguém,Harlan Coben,Suspense,2.0
+56,Fortaleza Digital,Dan Brown,Suspense,79,O Inocente,Harlan Coben,Suspense,2.0
+56,Fortaleza Digital,Dan Brown,Suspense,80,A Promessa,Harlan Coben,Suspense,2.0
+56,Fortaleza Digital,Dan Brown,Suspense,81,Fique Comigo,Harlan Coben,Suspense,2.0
+56,Fortaleza Digital,Dan Brown,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,2.0
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,0.5
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,0.5
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,0.5
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,83,Drácula,Bram Stoker,Terror,2.0
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+57,O Chamado de Cthulhu,H.P. Lovecraft,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,0.5
+58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,0.5
+58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,83,Drácula,Bram Stoker,Terror,2.0
+58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+58,Nas Montanhas da Loucura,H.P. Lovecraft,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,60,O Horror de Dunwich,H.P. Lovecraft,Terror,0.5
+59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,83,Drácula,Bram Stoker,Terror,2.0
+59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+59,A Sombra sobre Innsmouth,H.P. Lovecraft,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+60,O Horror de Dunwich,H.P. Lovecraft,Terror,83,Drácula,Bram Stoker,Terror,2.0
+60,O Horror de Dunwich,H.P. Lovecraft,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,2.0
+60,O Horror de Dunwich,H.P. Lovecraft,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,62,O Mar de Monstros,Rick Riordan,Fantasia,0.5
+61,O Ladrão de Raios,Rick Riordan,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,0.5
+61,O Ladrão de Raios,Rick Riordan,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,0.5
+61,O Ladrão de Raios,Rick Riordan,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,0.5
+61,O Ladrão de Raios,Rick Riordan,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+61,O Ladrão de Raios,Rick Riordan,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,63,A Maldição do Titã,Rick Riordan,Fantasia,0.5
+62,O Mar de Monstros,Rick Riordan,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,0.5
+62,O Mar de Monstros,Rick Riordan,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,0.5
+62,O Mar de Monstros,Rick Riordan,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+62,O Mar de Monstros,Rick Riordan,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,64,A Batalha do Labirinto,Rick Riordan,Fantasia,0.5
+63,A Maldição do Titã,Rick Riordan,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,0.5
+63,A Maldição do Titã,Rick Riordan,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+63,A Maldição do Titã,Rick Riordan,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,65,O Último Olimpiano,Rick Riordan,Fantasia,0.5
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+64,A Batalha do Labirinto,Rick Riordan,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+65,O Último Olimpiano,Rick Riordan,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,67,Príncipe Caspian,C.S. Lewis,Fantasia,0.5
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,0.5
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,0.5
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+66,"O Leão, a Feiticeira e o Guarda-Roupa",C.S. Lewis,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+67,Príncipe Caspian,C.S. Lewis,Fantasia,68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,0.5
+67,Príncipe Caspian,C.S. Lewis,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,0.5
+67,Príncipe Caspian,C.S. Lewis,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+67,Príncipe Caspian,C.S. Lewis,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+67,Príncipe Caspian,C.S. Lewis,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+67,Príncipe Caspian,C.S. Lewis,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,69,A Cadeira de Prata,C.S. Lewis,Fantasia,0.5
+68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+68,A Viagem do Peregrino da Alvorada,C.S. Lewis,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+69,A Cadeira de Prata,C.S. Lewis,Fantasia,74,American Gods,Neil Gaiman,Fantasia,2.0
+69,A Cadeira de Prata,C.S. Lewis,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,2.0
+69,A Cadeira de Prata,C.S. Lewis,Fantasia,76,Coraline,Neil Gaiman,Fantasia,2.0
+69,A Cadeira de Prata,C.S. Lewis,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,2.0
+70,Duna,Frank Herbert,Ficção Científica,71,Messias de Duna,Frank Herbert,Ficção Científica,0.5
+70,Duna,Frank Herbert,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,0.5
+70,Duna,Frank Herbert,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,0.5
+71,Messias de Duna,Frank Herbert,Ficção Científica,72,Filhos de Duna,Frank Herbert,Ficção Científica,0.5
+71,Messias de Duna,Frank Herbert,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,0.5
+72,Filhos de Duna,Frank Herbert,Ficção Científica,73,Imperador Deus de Duna,Frank Herbert,Ficção Científica,0.5
+74,American Gods,Neil Gaiman,Fantasia,75,Lugar Nenhum,Neil Gaiman,Fantasia,0.5
+74,American Gods,Neil Gaiman,Fantasia,76,Coraline,Neil Gaiman,Fantasia,0.5
+74,American Gods,Neil Gaiman,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,0.5
+75,Lugar Nenhum,Neil Gaiman,Fantasia,76,Coraline,Neil Gaiman,Fantasia,0.5
+75,Lugar Nenhum,Neil Gaiman,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,0.5
+76,Coraline,Neil Gaiman,Fantasia,77,O Oceano no Fim do Caminho,Neil Gaiman,Fantasia,0.5
+78,Não Conte a Ninguém,Harlan Coben,Suspense,79,O Inocente,Harlan Coben,Suspense,0.5
+78,Não Conte a Ninguém,Harlan Coben,Suspense,80,A Promessa,Harlan Coben,Suspense,0.5
+78,Não Conte a Ninguém,Harlan Coben,Suspense,81,Fique Comigo,Harlan Coben,Suspense,0.5
+78,Não Conte a Ninguém,Harlan Coben,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,0.5
+79,O Inocente,Harlan Coben,Suspense,80,A Promessa,Harlan Coben,Suspense,0.5
+79,O Inocente,Harlan Coben,Suspense,81,Fique Comigo,Harlan Coben,Suspense,0.5
+79,O Inocente,Harlan Coben,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,0.5
+80,A Promessa,Harlan Coben,Suspense,81,Fique Comigo,Harlan Coben,Suspense,0.5
+80,A Promessa,Harlan Coben,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,0.5
+81,Fique Comigo,Harlan Coben,Suspense,82,Seis Anos Depois,Harlan Coben,Suspense,0.5
+83,Drácula,Bram Stoker,Terror,84,O Convidado de Drácula,Bram Stoker,Terror,0.5
+83,Drácula,Bram Stoker,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,0.5
+84,O Convidado de Drácula,Bram Stoker,Terror,85,A Jóia das Sete Estrelas,Bram Stoker,Terror,0.5

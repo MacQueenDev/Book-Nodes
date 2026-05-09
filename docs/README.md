@@ -2,7 +2,8 @@
 # 🚀 Nome do Projeto
  ![Logo](img/logo.png)
 
-**Projeto:** 
+**Projeto:**
+Book-Nodes 
 
 **Resumo:**  
 
@@ -68,27 +69,40 @@ Book-Nodes/
 
 ### ✅ Rodando Localmente
 
-
-```
 ```
 git clone https://github.com/MacQueenDev/Book-Nodes
 
----
 cd Book-Nodes
 
----
-pip install -r requirements.txt
+pip install  requirements.txt
 
----
+python seed.py
+
 python src/app.py
 
----
-
+```
 ## 📸 Demonstrações
 
+### Tela de Entrada
 
+![Tela de entrada](img/login.png)
 
----
+### Tela de Cadastro
+
+![Tela de cadastro](img/cadastrar.png)
+
+### Tela de Resultado
+
+![Tela de resultado](img/Home.png)
+
+### Tela de Perfil
+
+![Tela de perfil](img/Perfil.png)
+
+### Tela do Carrinho
+
+![Tela do carrinho](img/Carrinho.png)
+
 
 ## 👥 Equipe
 
@@ -96,7 +110,7 @@ python src/app.py
 |-----------------------------------|--------------------------------------------------|
 | Matheus Silva Soares             | [@Matheus](https://github.com/Matheus686) |
 | Marcos Antônio Da Silva Souza    | [@Marcos](https://github.com/MacQueenDev)                                     |
-| Gabriel Alves Dias Reis         |                                      |
+| Gabriel Alves Dias Reis         |  [@Gabriel](https://github.com/gabe-herrera)        |
 
 ---
 
