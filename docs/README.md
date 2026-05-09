@@ -39,28 +39,49 @@ Desenvolver um sistema capaz de recomendar livros semelhantes com base em relaç
 ## 🗂️ Estrutura do Projeto
 
 ```
-Book-Nodes/
+BOOK-NODES/
+│
 ├── data/
 │   ├── database.db
-│   └── dados.csv
+│   ├── grafo_conexoes.csv
+│   └── testdata.py
 │
 ├── docs/
-│   ├── E1.md
-│   ├── E2.md
+│   ├── img/
+│   │   ├── cadastrar.png
+│   │   ├── Carrinho.png
+│   │   ├── diagrama1.jpeg
+│   │   ├── diagramaarquitetura.jpeg
+│   │   ├── Home.png
+│   │   ├── login.png
+│   │   ├── logo.png
+│   │   └── Perfil.png
+│   │
+│   ├── E1_Grupo15_Documento de Visão (1).md
+│   ├── E2_Grupo15_Designer_técnico.md
+│   ├── E3_Book-Nodes.md
 │   └── README.md
 │
 ├── src/
 │   ├── templates/
+│   │   ├── base.html
+│   │   ├── carrinho.html
+│   │   ├── detalhe.html
+│   │   ├── index.html
+│   │   ├── login.html
+│   │   └── perfil.html
+│   │
 │   ├── app.py
 │   ├── engine.py
-│   └── models.py
+│   ├── models.py
+│   └── test.py
 │
 ├── tests/
-│   └── tests.py
+│   └── test_engine.py
 │
+├── LICENSE
 ├── requirements.txt
 └── seed.py
-
 ```
 
 ---

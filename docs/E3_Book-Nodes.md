@@ -36,7 +36,9 @@
 ```bash
 git clone https://github.com/MacQueenDev/Book-Nodes
 cd Book-Nodes
+
 pip install -r requirements.txt
+pip install Flask-Login
 ```
 
 **Execução:**
@@ -301,6 +303,8 @@ tests\test_engine.py ...                                                        
 | `8ec8ca9` | Feat: novas telas funcionais + sistema de usuário | Marcos |
 | `60e7596` | docs: atualizações de documentação e imagens | Matheus |
 | `9f120b0` | Adicione o algoritmo de Dijkstra para recomendações de livros | Gabriel Reis |
+| `353a103` | test: finaliza testes unitários e documentação do MVP | Matheus |
+
 
 ---
 
@@ -310,7 +314,7 @@ tests\test_engine.py ...                                                        
 |---------------|--------|------------|
 | Classe do grafo | ✅ Completo | O sistema modela os livros como vértices e as conexões entre livros como arestas ponderadas. |
 | Algoritmo principal | ✅ Completo | O algoritmo de Dijkstra foi implementado para gerar recomendações com base nas menores distâncias entre livros relacionados. |
-| Leitura de arquivo | 🔄 Parcial | O projeto utiliza dados cadastrados no banco de dados. Caso seja exigido arquivo em `data/`, ainda é necessário adicionar um exemplo de grafo em JSON ou CSV. |
+| Leitura de arquivo | ✅ Completo |O projeto utiliza SQLite como fonte principal de dados. O banco é populado pelo `seed.py` com os livros e as conexões ponderadas do grafo. Além disso, foi gerado o arquivo `data/grafo_conexoes.csv`, que documenta as arestas do grafo com os livros conectados e seus respectivos pesos. |
 | Tela de entrada | ✅ Completo | A tela de login está funcionando e permite o acesso de usuários cadastrados. |
 | Tela de cadastro | ✅ Completo | A tela permite criar uma nova conta informando nome, e-mail e senha. |
 | Tela de resultado | ✅ Completo | A vitrine principal exibe os livros disponíveis em cards com título, categoria, descrição, preço e botão de detalhes. |
