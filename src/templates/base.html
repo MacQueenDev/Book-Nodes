@@ -4,21 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BOOK-NODES</title>
+    <!-- Tailwind CSS para o estilo -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100">
+
     <nav class="bg-blue-600 p-4 text-white shadow-lg">
-        <div class="container mx-auto flex justify-between">
+        <div class="container mx-auto flex justify-between items-center">
+
             <a href="/" class="text-2xl font-bold">📚 BOOK-NODES</a>
-            <div>
-                <a href="/perfil" class="px-4">Meu Perfil</a>
-                <a href="/carrinho" class="px-4">Carrinho</a>
+            
+            <div class="flex items-center space-x-6">
+                <a href="/" class="hover:text-blue-200">Home</a>
+                
+                {% if current_user.is_authenticated %}
+                    <span class="text-sm border-l border-blue-400 pl-4">
+                        Olá, <strong>{{ current_user.nome }}</strong>
+                    </span>
+                    <a href="/perfil" class="hover:text-blue-200">Meu Perfil</a>
+                    <a href="/carrinho" class="hover:text-blue-200">Carrinho</a>
+                    <a href="/logout" class="bg-red-500 px-3 py-1 rounded text-xs font-bold hover:bg-red-600 transition">
+                        Sair
+                    </a>
+                {% else %}
+
+                    <a href="/login" class="bg-white text-blue-600 px-4 py-1 rounded font-bold hover:bg-blue-50 transition">
+                        Entrar
+                    </a>
+                {% endif %}
             </div>
         </div>
     </nav>
 
     <main class="container mx-auto mt-8 p-4">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="mb-4 p-4 rounded {{ 'bg-green-200 text-green-800' if category == 'success' else 'bg-red-200 text-red-800' }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
         {% block content %}{% endblock %}
     </main>
+
 </body>
 </html>

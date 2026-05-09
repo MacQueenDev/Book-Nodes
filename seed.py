@@ -1,5 +1,9 @@
-from src.app import app
-from src.models import db, Livro, Conexao, Usuario
+import sys
+import os
+from werkzeug.security import generate_password_hash
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'src')))
+from app import app
+from models import db, Livro, Conexao, Usuario
 
 def popular():
     with app.app_context():      
@@ -7,8 +11,9 @@ def popular():
         db.drop_all()
         db.create_all()
         
-        print("Criando usuário Admin...")  
-        admin = Usuario(nome="admin", email="admin@email.com", senha="123")
+        print("Criando usuário Admin...")
+        senha_criptografada = generate_password_hash("123")
+        admin = Usuario(nome="admin", email="admin@email.com", senha=senha_criptografada)
         db.session.add(admin)
         db.session.commit()
     
