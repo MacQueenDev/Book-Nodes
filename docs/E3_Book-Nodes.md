@@ -53,7 +53,7 @@ python src/app.py
 **Saída esperada:**
 
 ```
-O sistema inicia uma aplicação web utilizando Flask. O usuário pode selecionar um livro e visualizar recomendações geradas a partir do algoritmo de Dijkstra, com base nas relações de similaridade entre os livros.
+O sistema inicia uma aplicação web utilizando Flask. O usuário pode selecionar um livro e visualizar recomendações geradas a partir do algoritmo de Dijkstra, com base nas relações de similaridade entre os livros e entre as escolhas dos usuarios.
 ```
 
 ---

@@ -97,6 +97,8 @@ cd Book-Nodes
 
 pip install  requirements.txt
 
+pip install Flask-Login
+
 python seed.py
 
 python src/app.py
